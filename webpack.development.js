@@ -13,7 +13,6 @@ module.exports = merge(baseConfig, {
     hot: true,
     open: true,
   },
-  watch: true,
   watchOptions: {
     ignored: /node_modules/,
   },
