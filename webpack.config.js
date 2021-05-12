@@ -19,7 +19,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Kryptodek - Deklarationshjälpen',
+      title: 'Title',
       template: './src/index.html',
     }),
   ],
